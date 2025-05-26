@@ -6,7 +6,7 @@
 
 # Hi there! 👋 I'm Simphiwe Dlamuka
 
-Software Developer passionate about building clean, scalable apps and sharpening my skills every day. Currently leveling up in **JavaScript/TypeScript**, **Angular**, and backend development with **C#**.
+Software Developer passionate about building clean, scalable apps and sharpening my skills every day. Currently leveling up in **JavaScript/TypeScript**, **Angular**, and backend development with **C#** and **Python** .
 
 ---
 
