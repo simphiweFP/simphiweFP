@@ -64,7 +64,7 @@ Software Developer passionate about building clean, scalable apps and sharpening
 
 - LinkedIn: [your-linkedin](https://linkedin.com/in/yourprofile)  
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- Email: your.email@example.com
+- Email: simphiwedlamuka371@gmail.com
 
 Feel free to check out my repos or drop me a message!
 
