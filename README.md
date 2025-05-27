@@ -1,9 +1,3 @@
-<!--
-  🚀 Custom GitHub Profile README Template
-  For Junior → Intermediate Developers
-  Replace placeholders with your info!
--->
-
 # Hi there! 👋 I'm Simphiwe Dlamuka
 
 Software Developer passionate about building clean, scalable apps and sharpening my skills every day. Currently leveling up in **JavaScript/TypeScript**, **Angular**, and backend development with **C#** and **Python** .
