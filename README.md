@@ -30,6 +30,7 @@ Software Developer passionate about building clean, scalable apps and sharpening
   HR Falcon is a full-stack Human Resource Management System that digitizes and automates every core HR task traditionally handled manually. The system streamlines operations such as recruitment, onboarding, employee data management, leave requests, performance evaluations, and payroll processing all within a centralized and intuitive dashboard.
 
   _Tech_: HTML/CSS, .NET 6 Web App, Entity Framework, SQL Server, Identity, JWT
+  
   _Highlights_: Role-based access, leave & payroll automation, performance reviews, document handling
 
 - **[ BSA500 Learning System](https://github.com/yourusername/project-two)** — 📚 Full-stack Trading Education & Performance Management Platform
@@ -37,6 +38,7 @@ Software Developer passionate about building clean, scalable apps and sharpening
   BSA500 Learning System is a full-stack platform built to automate and modernize trading education workflows. The system replaces all manual processes by providing structured learning sessions, tracking how long learners train, running weekly assessments, and showcasing top performer statistics all in one centralized and user-friendly dashboard.
   
   _Tech_: HTML/CSS, .NET 6 (ASP.NET Core), Entity Framework Core, SQL Server, ASP.NET Identity, JWT
+  
   _Highlights_: Session tracking, role-based learning access, weekly test automation, top performance analytics, and reporting
 ---
 
