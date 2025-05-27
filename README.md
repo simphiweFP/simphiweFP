@@ -56,8 +56,7 @@ Software Developer passionate about building clean, scalable apps and sharpening
 
 ### 📫 Let's Connect!
 
-- LinkedIn: [your-linkedin](https://linkedin.com/in/yourprofile)  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- LinkedIn: [your-linkedin]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/simphiwe-dlamuka-01022120b/)  
 - Email: simphiwedlamuka371@gmail.com
 
 Feel free to check out my repos or drop me a message!
