@@ -26,9 +26,12 @@ Software Developer passionate about building clean, scalable apps and sharpening
 
 ### 🚀 Projects I'm proud of
 
-- **[Project One](https://github.com/yourusername/project-one)** — Full-stack React & Node.js app with user auth & REST API  
-  _Tech_: React, Node.js, Express, MongoDB, JWT  
-  _Highlights_: Role-based auth, responsive UI, RESTful API design
+- **[HR Falcon](https://github.com/yourusername/project-one)** — Full-stack Human Resource Management System
+- 🧾 Project Summary
+HR Falcon is a full-stack Human Resource Management System that digitizes and automates every core HR task traditionally handled manually. The system streamlines operations such as recruitment, onboarding, employee data management, leave requests, performance evaluations, and payroll processing — all within a centralized and intuitive dashboard.
+
+  _Tech_: HTML/CSS, .NET 6 Web App, Entity Framework, SQL Server, Identity, JWT
+  _Highlights_: Role-based access, leave & payroll automation, performance reviews, document handling
 
 - **[Project Two](https://github.com/yourusername/project-two)** — Task management SPA with drag & drop features  
   _Tech_: React, Redux, CSS Modules  
