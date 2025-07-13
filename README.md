@@ -50,12 +50,6 @@ Software Developer passionate about building clean, scalable apps and sharpening
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Let's Connect!
 
 - LinkedIn: [https://linkedin.com/simphiwedlamuka](https://www.linkedin.com/in/simphiwe-dlamuka-01022120b/)  
