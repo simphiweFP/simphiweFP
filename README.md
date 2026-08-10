@@ -25,22 +25,18 @@ Software Developer passionate about building clean, scalable apps and sharpening
 
 ### 🚀 Projects I'm proud of
 
-- **[HR Falcon](https://github.com/yourusername/project-one)** — 🧾Full-stack Human Resource Management System
+* **[Employee Management System](https://github.com/simphiweFP/EmployeeManagementSystem)** — 👥 Centralized HR Management Platform
 
-  HR Falcon is a full-stack Human Resource Management System that digitizes and automates every core HR task traditionally handled manually. The system streamlines operations such as recruitment, onboarding, employee data management, leave requests, performance evaluations, and payroll processing all within a centralized and intuitive dashboard.
+  A full-stack Human Resource Management System built to centralize employee administration, leave workflows, approvals, payroll communication, and internal HR processes.
 
-  _Tech_: HTML/CSS, .NET 6 Web App, Entity Framework, SQL Server, Identity, JWT
-  
-  _Highlights_: Role-based access, leave & payroll automation, performance reviews, document handling
+  The platform supports employees, managers, and administrators through structured workflows, role-based access, employee and department management, payslip distribution, notifications, and return-to-work processes.
 
-- **[ BSA500 Learning System](https://github.com/yourusername/project-two)** — 📚 Full-stack Trading Education & Performance Management Platform
-  
-  BSA500 Learning System is a full-stack platform built to automate and modernize trading education workflows. The system replaces all manual processes by providing structured learning sessions, tracking how long learners train, running weekly assessments, and showcasing top performer statistics all in one centralized and user-friendly dashboard.
-  
-  _Tech_: HTML/CSS, .NET 6 (ASP.NET Core), Entity Framework Core, SQL Server, ASP.NET Identity, JWT
-  
-  _Highlights_: Session tracking, role-based learning access, weekly test automation, top performance analytics, and reporting
+  **Tech:** ASP.NET MVC 5, .NET Framework 4.7.2, Entity Framework 6, SQL Server, ASP.NET Identity 2, Razor Views, Bootstrap 3, JavaScript, jQuery
+
+  **Highlights:** 🔐 Role-based access control, 🏖️ leave management and approvals, 👥 employee and department management, 💰 payslip distribution, 📎 document uploads, 📢 notifications, 🔄 return-to-work workflows
+
 ---
+
 
 ### 📚 Learning & Growth
 
