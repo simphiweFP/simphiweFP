@@ -19,24 +19,23 @@ Software Developer passionate about building clean, scalable apps and sharpening
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-
-
 ---
 
 ### 🚀 Projects I'm proud of
 
-* **[Employee Management System](https://github.com/simphiweFP/EmployeeManagementSystem)** — 👥 Centralized HR Management Platform
+* **[Employee Management System — Live Demo](http://simphiwedlamuka-002-site2.itempurl.com/)** — 👥 Centralized HR Management Platform
 
   A full-stack Human Resource Management System built to centralize employee administration, leave workflows, approvals, payroll communication, and internal HR processes.
 
   The platform supports employees, managers, and administrators through structured workflows, role-based access, employee and department management, payslip distribution, notifications, and return-to-work processes.
+
+  [![Falcon Employee Management System home page](assets/falcon-employee-management-system.png)](http://simphiwedlamuka-002-site2.itempurl.com/)
 
   **Tech:** ASP.NET MVC 5, .NET Framework 4.7.2, Entity Framework 6, SQL Server, ASP.NET Identity 2, Razor Views, Bootstrap 3, JavaScript, jQuery
 
   **Highlights:** 🔐 Role-based access control, 🏖️ leave management and approvals, 👥 employee and department management, 💰 payslip distribution, 📎 document uploads, 📢 notifications, 🔄 return-to-work workflows
 
 ---
-
 
 ### 📚 Learning & Growth
 
@@ -56,4 +55,3 @@ Feel free to check out my repos or drop me a message!
 ---
 
 *“Strive for progress, not perfection.”* ✨
-
