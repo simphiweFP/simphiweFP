@@ -1,70 +1,92 @@
-# Hi there! 👋 I'm Simphiwe Dlamuka
+# Hi, I'm Simphiwe Dlamuka 👋
 
-Software Developer passionate about building clean, scalable apps and sharpening my skills every day. Currently leveling up in **JavaScript/TypeScript**, **Angular**, and backend development with **C#** and **Python** .
+### Full Stack Software Engineer | Angular · .NET · SQL · Azure
+
+I build enterprise software that turns complex business rules into reliable, maintainable systems.
+
+Over the past **4+ years**, I have worked across frontend, backend, APIs and databases—mainly in the insurance domain. My day-to-day engineering has included building Angular workflows, developing C#/.NET services, integrating external systems, writing SQL, investigating production issues and improving existing applications without breaking the journeys customers already depend on.
+
+📍 Durban, South Africa · 🎯 Open to full-stack software engineering opportunities
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-simdevhub.com-16C7C9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://simdevhub.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Simphiwe_Dlamuka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simphiwe-dlamuka-01022120b/)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💼 What I bring to an engineering team
+
+- **Full-stack delivery:** I can follow a feature from the UI and API through to SQL, testing and deployment.
+- **Enterprise experience:** I have worked with policy, claims, customer self-service and internal administration workflows where accuracy matters.
+- **Production problem-solving:** I investigated database locking and slow application behaviour, then improved the flow through call consolidation and caching—reducing a key process from roughly one minute to about ten seconds.
+- **Ownership:** I ask how a feature affects the whole user journey, not only whether my individual ticket compiles.
+- **Maintainability:** I care about readable code, clear boundaries, reusable components, validation and changes that are safe to support after release.
+
+---
+
+### 🛠️ Core stack
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Engineering practices:** REST APIs · Clean Architecture · SOLID · Role-based access · API integrations · Unit testing · Production troubleshooting · Agile delivery
 
 ---
 
 ### 🚀 Projects I'm proud of
 
-* **[Employee Management System — Live Demo](http://simphiwedlamuka-002-site2.itempurl.com/)** — 👥 Centralized HR Management Platform
+#### [Ask Sim — AI Portfolio Assistant](https://simdevhub.com/)
 
-  A full-stack Human Resource Management System built to centralize employee administration, leave workflows, approvals, payroll communication, and internal HR processes.
+**The problem:** A recruiter should not need to search through my CV, portfolio and project history just to decide whether I am worth interviewing.
 
-  The platform supports employees, managers, and administrators through structured workflows, role-based access, employee and department management, payslip distribution, notifications, and return-to-work processes.
+I built Ask Sim directly into my portfolio so recruiters can ask about my experience, compare my background with a role, request proof from real projects and arrange an interview from one focused experience.
 
-  [![Falcon Employee Management System home page](assets/falcon-employee-management-system.png)](http://simphiwedlamuka-002-site2.itempurl.com/)
+[![Ask Sim AI portfolio assistant](assets/ask-sim-ai-portfolio-assistant.jpg)](https://simdevhub.com/)
 
-  **Tech:** ASP.NET MVC 5, .NET Framework 4.7.2, Entity Framework 6, SQL Server, ASP.NET Identity 2, Razor Views, Bootstrap 3, JavaScript, jQuery
+**Tech:** C#, ASP.NET, OpenAI API, Google Calendar API, JavaScript, HTML, CSS
 
-  **Highlights:** 🔐 Role-based access control, 🏖️ leave management and approvals, 👥 employee and department management, 💰 payslip distribution, 📎 document uploads, 📢 notifications, 🔄 return-to-work workflows
-
-
-* **[Ask Sim — AI Portfolio Assistant](https://simdevhub.com/)** — 🤖 Recruiter-focused portfolio experience
-
-  An AI assistant built into my portfolio to help recruiters and hiring managers quickly understand my experience, assess role fit, and find evidence from real projects without searching through multiple pages.
-
-  Ask Sim can answer questions about my background, present relevant project proof, and help arrange an interview using available meeting slots.
-
-  [![Ask Sim AI portfolio assistant](assets/ask-sim-ai-portfolio-assistant.jpg)](https://simdevhub.com/)
-
-  **Tech:** C#, ASP.NET, OpenAI API, Google Calendar API, JavaScript, HTML, CSS
-
-  **Highlights:** 💬 AI-powered portfolio Q&A, 🎯 role-fit analysis, 🧾 project evidence, 📅 interview availability and booking, 🔒 request limits, 🌓 responsive light and dark themes
+**What I engineered:** 💬 grounded portfolio Q&A · 🎯 role-fit analysis · 🧾 project evidence · 📅 calendar availability and interview booking · 🔒 per-session request limits · ✅ confirmation flows · 🌓 responsive light and dark themes
 
 ---
 
-### 📚 Learning & Growth
+#### [Falcon Employee Management System — Live Demo](http://simphiwedlamuka-002-site2.itempurl.com/)
 
-- Deepening skills in **TypeScript**, **C#**, and **Python**
-- Exploring **Unit Testing** with Karma 
-- Reading **Clean Code** and **From Beginner to Pro** book series
+**The problem:** Employee administration becomes slow and difficult to track when leave, approvals, payslips, documents and return-to-work processes are handled across separate manual channels.
 
----
+I built Falcon as a centralized HR platform with dedicated employee, manager and administrator workflows. It brings employee records, leave approvals, payroll communication and internal notifications into one system.
 
-### 📫 Let's Connect!
+[![Falcon Employee Management System home page](assets/falcon-employee-management-system.png)](http://simphiwedlamuka-002-site2.itempurl.com/)
 
-- LinkedIn: [https://linkedin.com/simphiwedlamuka](https://www.linkedin.com/in/simphiwe-dlamuka-01022120b/)  
-- Email: simphiwedlamuka371@gmail.com
+**Tech:** ASP.NET MVC 5, .NET Framework 4.7.2, Entity Framework 6, SQL Server, ASP.NET Identity 2, Razor Views, Bootstrap 3, JavaScript, jQuery
 
-Feel free to check out my repos or drop me a message!
+**What I engineered:** 🔐 role-based access · 🏖️ leave requests and approvals · 👥 employee and department management · 💰 payslip distribution · 📎 document uploads · 📢 notifications · 🔄 return-to-work workflows
 
 ---
 
-*“Strive for progress, not perfection.”* ✨
+### 🌱 What I'm improving now
+
+- Deepening my **system design, Clean Architecture and automated testing** skills.
+- Expanding my **Azure and DevOps** knowledge for stronger end-to-end delivery.
+- Learning **Python** by building a practical high-school learning platform rather than following isolated tutorials.
+- Improving how I communicate technical decisions, trade-offs and business value.
+
+---
+
+### 📫 Let's connect
+
+- **Portfolio:** [simdevhub.com](https://simdevhub.com/)
+- **LinkedIn:** [Simphiwe Dlamuka](https://www.linkedin.com/in/simphiwe-dlamuka-01022120b/)
+- **Email:** [simphiwedlamuka371@gmail.com](mailto:simphiwedlamuka371@gmail.com)
+
+If you are hiring for a full-stack role involving **Angular, .NET, SQL or Azure**, try asking Ask Sim:
+
+> **“Why should we interview Simphiwe?”**
