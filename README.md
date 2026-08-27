@@ -90,3 +90,7 @@ I built Falcon as a centralized HR platform with dedicated employee, manager and
 If you are hiring for a full-stack role involving **Angular, .NET, SQL or Azure**, try asking Ask Sim:
 
 > **“Why should we interview Simphiwe?”**
+
+---
+
+<p align="center"><em>“Strive for progress, not perfection.”</em> ✨</p>
