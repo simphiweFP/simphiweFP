@@ -42,7 +42,7 @@ Software Developer passionate about building clean, scalable apps and sharpening
 
   Ask Sim can answer questions about my background, present relevant project proof, and help arrange an interview using available meeting slots.
 
-  [![Ask Sim AI portfolio assistant](assets/ask-sim-ai-portfolio-assistant.png)](https://simdevhub.com/)
+  [![Ask Sim AI portfolio assistant](https://raw.githubusercontent.com/simphiweFP/simphiweFP/main/assets/ask-sim-ai-portfolio-assistant.png)](https://simdevhub.com/)
 
   **Tech:** C#, ASP.NET, OpenAI API, Google Calendar API, JavaScript, HTML, CSS
 
