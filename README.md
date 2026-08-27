@@ -4,9 +4,7 @@
 
 I build enterprise software that turns complex business rules into reliable, maintainable systems.
 
-Over the past **4+ years**, I have worked across frontend, backend, APIs and databases—mainly in the insurance domain. My day-to-day engineering has included building Angular workflows, developing C#/.NET services, integrating external systems, writing SQL, investigating production issues and improving existing applications without breaking the journeys customers already depend on.
-
-📍 Durban, South Africa · 🎯 Open to full-stack software engineering opportunities
+Over the past **4+ years**, I have worked across frontend, backend, APIs and databases mainly in the insurance domain. My day-to-day engineering has included building Angular workflows, developing C#/.NET services, integrating external systems, writing SQL, investigating production issues and improving existing applications without breaking the journeys customers already depend on.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-simdevhub.com-16C7C9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://simdevhub.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simphiwe_Dlamuka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simphiwe-dlamuka-01022120b/)
@@ -17,7 +15,7 @@ Over the past **4+ years**, I have worked across frontend, backend, APIs and dat
 
 - **Full-stack delivery:** I can follow a feature from the UI and API through to SQL, testing and deployment.
 - **Enterprise experience:** I have worked with policy, claims, customer self-service and internal administration workflows where accuracy matters.
-- **Production problem-solving:** I investigated database locking and slow application behaviour, then improved the flow through call consolidation and caching—reducing a key process from roughly one minute to about ten seconds.
+- **Production problem-solving:** I investigated database locking and slow application behaviour, then improved the flow through call consolidation and caching reducing a key process from roughly one minute to about ten seconds.
 - **Ownership:** I ask how a feature affects the whole user journey, not only whether my individual ticket compiles.
 - **Maintainability:** I care about readable code, clear boundaries, reusable components, validation and changes that are safe to support after release.
 
