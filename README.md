@@ -35,6 +35,19 @@ Software Developer passionate about building clean, scalable apps and sharpening
 
   **Highlights:** 🔐 Role-based access control, 🏖️ leave management and approvals, 👥 employee and department management, 💰 payslip distribution, 📎 document uploads, 📢 notifications, 🔄 return-to-work workflows
 
+
+* **[Ask Sim — AI Portfolio Assistant](https://simdevhub.com/)** — 🤖 Recruiter-focused portfolio experience
+
+  An AI assistant built into my portfolio to help recruiters and hiring managers quickly understand my experience, assess role fit, and find evidence from real projects without searching through multiple pages.
+
+  Ask Sim can answer questions about my background, present relevant project proof, and help arrange an interview using available meeting slots.
+
+  [![Ask Sim AI portfolio assistant](assets/ask-sim-ai-portfolio-assistant.png)](https://simdevhub.com/)
+
+  **Tech:** C#, ASP.NET, OpenAI API, Google Calendar API, JavaScript, HTML, CSS
+
+  **Highlights:** 💬 AI-powered portfolio Q&A, 🎯 role-fit analysis, 🧾 project evidence, 📅 interview availability and booking, 🔒 request limits, 🌓 responsive light and dark themes
+
 ---
 
 ### 📚 Learning & Growth
